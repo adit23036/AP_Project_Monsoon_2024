@@ -1,17 +1,16 @@
-# AP_Project_Monsoon_2024
-AP Project Monsoon 2024.
-<br>
-Project Collaborators:
-<br>
-1. Adit Goel - 2023036
-2. Shirsh Chandra - 2023502
-<br>
-<br>
-In this GitHub Repository we have uploaded all the files in the asset folder which contain all the images and background images that we have used to create our project. We have also uploaded the java files which represent the screens and the main file which connects them all together. To run our project download all our files and configure them with the gradle lwjgl3 run command to execute them. We have also submitted our zip file of the whole project separately on google classroom as well.
-<br>
-UML Diagram has also been included in the Git repository as well as the zip file on the submission.
-<br>
-Repository Link: https://github.com/adit23036/AP_Project_Monsoon_2024
-<br>
-<br>
+Advanced Programming Project
+Game Development using Advanced Programming: Angry Birds
+
+Project Contributors:
+Adit Goel - 2023036
+Shirsh Chandra - 2023502
+
+In this project, we have developed Angry Birds game using LibGDX and we have submitted the project ZIP file in the deadline for this project on the Google Classroom. To set up and run our project, download the ZIP file and unzip it and use IntelliJ IDEA to open the downloaded file. Use JDK 23 to configure the project and set the gradle configurations in the gradle section on the right side of the project panel to run configuration. Then an executable jar file will be ready which can be run from clicking the green play button at the top of the screen.
+
+We have referred to LibGDX documentation and internet to understand the various libraries such as Box2D and World to implement the physics efficiently.
+
+GitHub Repository Link: https://github.com/adit23036/AP_Project_Monsoon_2024
+
 Thank You
+With best regards
+Adit Goel, Shirsh Chandra
