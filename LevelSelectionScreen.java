@@ -104,7 +104,7 @@ public class LevelSelectionScreen implements Screen {
         level1Button.addListener(new ChangeListener() {
             @Override
             public void changed(ChangeEvent event, Actor actor) {
-                game.setScreen(new GameScreen(game));
+                game.setScreen(new FirstLevel(game));
             }
         });
         stage.addActor(level1Button);
@@ -118,7 +118,7 @@ public class LevelSelectionScreen implements Screen {
         level2Button.addListener(new ChangeListener() {
             @Override
             public void changed(ChangeEvent event, Actor actor) {
-                game.setScreen(new GameScreen(game));
+                game.setScreen(new FirstLevel(game));
             }
         });
         stage.addActor(level2Button);
@@ -131,7 +131,7 @@ public class LevelSelectionScreen implements Screen {
         level3Button.addListener(new ChangeListener() {
             @Override
             public void changed(ChangeEvent event, Actor actor) {
-                game.setScreen(new GameScreen(game));
+                game.setScreen(new FirstLevel(game));
             }
         });
         stage.addActor(level3Button);
