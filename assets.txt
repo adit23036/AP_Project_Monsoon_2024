@@ -1,3 +1,4 @@
+.gitkeep
 1press_button.png
 2press_button.png
 3_pressbutton.png
@@ -8,6 +9,7 @@ back_button1.png
 Blue_bird.png
 Bomb.png
 catapult.png
+catapult_main.png
 Chuck.png
 cloud.png
 connect.png
